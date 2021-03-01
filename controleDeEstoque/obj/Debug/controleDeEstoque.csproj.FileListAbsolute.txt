@@ -1,0 +1,13 @@
+C:\Users\giova\source\repos\controleDeEstoque\obj\Debug\controleDeEstoque.csprojAssemblyReference.cache
+C:\Users\giova\source\repos\controleDeEstoque\obj\Debug\controleDeEstoque.Form1.resources
+C:\Users\giova\source\repos\controleDeEstoque\obj\Debug\controleDeEstoque.Properties.Resources.resources
+C:\Users\giova\source\repos\controleDeEstoque\obj\Debug\controleDeEstoque.csproj.GenerateResource.cache
+C:\Users\giova\source\repos\controleDeEstoque\obj\Debug\controleDeEstoque.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\controleDeEstoque\obj\Debug\controleDeEstoque.principal.resources
+C:\Users\giova\source\repos\controleDeEstoque\bin\Debug\controleDeEstoque.exe
+C:\Users\giova\source\repos\controleDeEstoque\bin\Debug\controleDeEstoque.pdb
+C:\Users\giova\source\repos\controleDeEstoque\obj\Debug\controleDeEstoque.estoque.resources
+C:\Users\giova\source\repos\controleDeEstoque\obj\Debug\controleDeEstoque.exe
+C:\Users\giova\source\repos\controleDeEstoque\obj\Debug\controleDeEstoque.pdb
+C:\Users\giova\source\repos\controleDeEstoque\obj\Debug\controleDeEstoque.fornecedor.resources
+C:\Users\giova\source\repos\controleDeEstoque\obj\Debug\controleDeEstoque.relatório.resources
